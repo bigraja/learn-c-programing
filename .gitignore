@@ -1,0 +1,34 @@
+# C/C++ build artifacts
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+
+# Build directories
+build/
+bin/
+debug/
+release/
+
+# Debugger files
+*.dSYM/
+.gdb_history
+
+# IDE and editor files
+.vscode/*.log
+.vscode/*.tmp
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
+*~
